@@ -2,6 +2,8 @@
 
 包括 网络发送速率 磁盘  CPU使用率 内存使用率 等
 
+[web版本](https://github.com/firgk/MonitoringResources)
+
 ```
 网络发送速率：0.01 MB/s  网络接收速率：0.01 MB/s  
 磁盘 0 读速率：0.00 MB/s  磁盘 0 写速率：0.00 MB/s
