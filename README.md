@@ -2,7 +2,7 @@
 
 包括 网络发送速率 磁盘  CPU使用率 内存使用率 等
 
-[web版本](https://github.com/firgk/MonitoringResources)
+[web版本](https://github.com/firgk/MonitoringResourcesWeb)
 
 ```
 网络发送速率：0.01 MB/s  网络接收速率：0.01 MB/s  
